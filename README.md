@@ -1,3 +1,3 @@
 # TypeScript
 
-** Training with TS :) **
+# Training with TS :)
