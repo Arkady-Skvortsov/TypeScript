@@ -1,0 +1,3 @@
+# TypeScript
+
+** Training with TS :) **
